@@ -1,3 +1,4 @@
+// class inheritance
 open class Human(
     open val name: String,
     open val age: Int,

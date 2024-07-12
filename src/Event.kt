@@ -10,5 +10,5 @@ fun main() {
     val ne = Error.NetworkError()
     val ue = Error.UnkonwnError()
     println(ne.message)
-    println(ue.message)
+    println(ue.message);
 }

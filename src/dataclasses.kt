@@ -26,5 +26,5 @@ fun main() {
     val mess = Massage("Kachra","Kachra seth","150 rupya dega","22:22","vooo","Nothig")
     println(mess)
     println(actor)
-    println(actor2)
+    println(actor2);
 }
